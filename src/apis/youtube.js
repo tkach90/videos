@@ -1,0 +1,1 @@
+const KEY = 'AIzaSyAttoV7LwUXqAObrStNIbbxSo2IVRfd3LI';
