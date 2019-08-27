@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c524b5d-f87a-42d8-a965-6c8c423c7b7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/VideoItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/VideoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VideoItem.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apis/youtube.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/apis/youtube.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/VideoItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/VideoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoList.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -31,6 +30,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../cryptoexchange-web-client" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -67,7 +67,8 @@
       <workItem from="1566458775481" duration="2309000" />
       <workItem from="1566546744434" duration="70000" />
       <workItem from="1566546879336" duration="275000" />
-      <workItem from="1566547165969" duration="8233000" />
+      <workItem from="1566547165969" duration="8305000" />
+      <workItem from="1566893486616" duration="4610000" />
     </task>
     <task id="LOCAL-00001" summary="create App and SearchBar components">
       <created>1566321620933</created>
@@ -97,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566373270909</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="create create video list and video item component">
+      <created>1566574171662</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1566574171662</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +128,7 @@
     <MESSAGE value="create App and SearchBar components" />
     <MESSAGE value="create create form and input with event handlers functions" />
     <MESSAGE value="create api key" />
-    <option name="LAST_COMMIT_MESSAGE" value="create api key" />
+    <MESSAGE value="create create video list and video item component" />
+    <option name="LAST_COMMIT_MESSAGE" value="create create video list and video item component" />
   </component>
 </project>
